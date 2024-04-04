@@ -1,6 +1,6 @@
 
  function App() {
-  return =<button></button>
+  return <button></button>
  }
   export function App()
 
