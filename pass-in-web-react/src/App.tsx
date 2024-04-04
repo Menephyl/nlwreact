@@ -1,6 +1,6 @@
 function meuBotao(props){
-  return( <button className="button">{props.texto}</button>
-)
+  return <button className="button">{props.texto}</button>
+
 }
 
 export function App() {
