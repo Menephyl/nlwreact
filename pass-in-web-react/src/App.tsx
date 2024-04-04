@@ -1,5 +1,5 @@
 function MeuBotao(){
-  return <button>Teste</button>
+  return <button className="button">Teste</button>
 }
 
 
