@@ -12,7 +12,8 @@
     <MeuBotao/>
     <MeuBotao/>
     <MeuBotao/>
-  </div>)
+  </div>
+  )
  
   }
 
