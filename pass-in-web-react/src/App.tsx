@@ -1,12 +1,12 @@
-function meuBotao(){
-  return <button className="button">Teste</button>
+function meuBotao(props){
+  return <button className="button">props.title</button>
 }
 
 
 export function App() {
 return(
   <div>
-   
+   <meuBotao texto="Clique Aqui"/>
   </div>
 )
 }
