@@ -1,6 +1,3 @@
-function meuBotao(props){
-  return <button className="button">props.title</button>
-}
 
 
 export function App() {
