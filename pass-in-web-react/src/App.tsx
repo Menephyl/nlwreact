@@ -1,4 +1,4 @@
-function meuBotao(props){
+function MeuBotao(props){
   return <button className="button">{props.texto}</button>
 
 }
@@ -6,7 +6,7 @@ function meuBotao(props){
 export function App() {
 return(
   <div>
-   <meuBotao texto="Clique Aqui"/>
+   <MeuBotao texto="Clique Aqui"/>
   </div>
   )
 }
