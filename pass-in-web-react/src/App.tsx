@@ -3,7 +3,7 @@
   return <button></button>
  }
   export function App(){
- return{
+ return(
   <div>
     <MeuBotao></MeuBotao>
     <MeuBotao></MeuBotao>
@@ -12,8 +12,8 @@
     <MeuBotao></MeuBotao>
     <MeuBotao></MeuBotao>
     <MeuBotao></MeuBotao>
-  </div>
- }
+  </div>)
+ 
   }
 
 
