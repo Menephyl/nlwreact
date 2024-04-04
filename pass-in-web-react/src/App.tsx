@@ -1,4 +1,4 @@
-function MeuBotao(){
+function meuBotao(){
   return <button className="button">Teste</button>
 }
 
@@ -6,15 +6,7 @@ function MeuBotao(){
 export function App() {
 return(
   <div>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <button>Teste</button>
-    <p>oi</p>
+   
   </div>
 )
 }
