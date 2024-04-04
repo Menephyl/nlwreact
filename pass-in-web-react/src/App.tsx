@@ -1,3 +1,7 @@
+function MeuBotao(){
+  return <button>Teste</button>
+}
+
 
 export function App() {
 return(
