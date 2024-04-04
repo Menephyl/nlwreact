@@ -1,7 +1,11 @@
 
 export function App() {
-
-  return <h1>Hello World</h1>
+return(
+  <div>
+    <button>Teste</button>
+  </div>
+)
+  // return <h1>Hello World</h1>
 }
 
 
