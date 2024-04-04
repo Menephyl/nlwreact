@@ -1,4 +1,6 @@
-function MeuBotao(props){
+
+
+function MeuBotao(props:MeuBotaoProps){
   return <button className="button">{props.texto}</button>
 
 }
